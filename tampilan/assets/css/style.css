@@ -50,7 +50,7 @@ h6,
 }
 
 .text-primary {
-  color: #2d71a1 !important;
+  color: #9651A1 !important;
 }
 
 .border-top {
@@ -107,7 +107,7 @@ section {
 }
 
 .back-to-top:hover {
-  background: #3687c1;
+  background: #9651A1;
   color: #fff;
 }
 
@@ -130,11 +130,11 @@ section {
 
 .btn.btn-outline-white:hover {
   background: #fff;
-  color: #2d71a1;
+  color: #9651A1;
 }
 
 .btn.btn-primary {
-  background: #2d71a1;
+  background: #9651A1;
   background: linear-gradient(-45deg, #C28DCB, #9651A1);
   color: #fff;
   box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
@@ -248,11 +248,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #2d71a1;
+  border: 1px solid #9651A1;
 }
 
 .testimonials-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #2d71a1;
+  background-color: #9651A1;
 }
 
 /* Pricing */
@@ -312,7 +312,7 @@ section {
 }
 
 .pricing .btn-white:hover {
-  color: #2d71a1;
+  color: #9651A1;
 }
 
 .pricing.popular {
@@ -468,11 +468,11 @@ section {
 
 .post-entry .post-text h3 a:hover {
   text-decoration: none;
-  color: #2d71a1;
+  color: #9651A1;
 }
 
 .post-entry .post-text .readmore {
-  color: #2d71a1;
+  color: #9651A1;
 }
 
 .sidebar-box {
