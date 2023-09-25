@@ -71,10 +71,6 @@ section {
   overflow: hidden;
 }
 
-.section {
-  padding: 7rem 0;
-}
-
 .section-heading {
   font-size: 3rem;
   font-weight: 700;
@@ -894,7 +890,7 @@ section {
 .hero-section,
 .hero-section>.container>.row {
   height: 100vh;
-  min-height: 880px;
+  min-height: 700px;
 }
 
 .hero-section.inner-page {
